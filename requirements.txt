@@ -1,10 +1,5 @@
 fastapi
 gunicorn
-numpy
 pycaret
 pandas
-pandas-profiling
-plotly
-requests
-scipy
 uvicorn
